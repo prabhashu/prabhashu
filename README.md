@@ -8,24 +8,24 @@
 
 ---
 
-### 🛠️ Tech Stack & Skills
-<table align="center">
+### 💻 Tech Stack & Tools
+<table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
-      <br />React
+    <td align="center" width="120"><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux" alt="Frontend" />
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node" />
-      <br />Node.js
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,graphql" alt="Backend" />
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
-      <br />MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
-      <br />Docker
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>DevOps</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,aws,kubernetes,githubactions,linux" alt="DevOps" />
     </td>
   </tr>
 </table>
